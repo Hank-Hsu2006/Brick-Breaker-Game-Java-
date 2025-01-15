@@ -1,0 +1,8 @@
+DOUBLE CLICK THE JAR FILE TO OPEN. 
+
+RIGHT BOUNDARY IS CUT OFF FOR SOME REASON, BUT IS NOT THE CASE IN LINUX.
+
+*The right boundary will be shown in the video when I run it on linux.*
+
+UPDATE:
+MAY NOT WORK IF NOT ON JDK VERSION 11 or JRE(class version 55.0)
